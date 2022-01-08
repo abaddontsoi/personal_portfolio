@@ -2,7 +2,6 @@ import React from 'react'
 
 import './Project.css'
 import './Project_cards.css'
-// import icon_1 from '../../img/icon_1.png'
 
 const Projects = () => {
     return (
@@ -31,9 +30,6 @@ const Projects = () => {
                 </div>
             </div>
             <div className='p-right'>
-                <div className="p-right-tittle">
-                    <h1>Repo shortcut</h1>
-                </div>
                 <div className="p-right-exam-container">    
                     <div className='p-right-example-col1'>
                         <div className="p-right-example-card">
